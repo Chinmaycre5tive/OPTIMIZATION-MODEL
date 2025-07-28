@@ -22,3 +22,5 @@ A MATHEMATICAL FRAMEWORK DESIGNED TO FIND THE BEST SOLUTION FROM A SET OF FEASIB
 
 <img width="1880" height="878" alt="Image" src="https://github.com/user-attachments/assets/971cfa92-2fda-4f81-8a0c-e0c1fc920bdd" />
 
+<img width="1904" height="909" alt="Image" src="https://github.com/user-attachments/assets/1140822f-f665-4d1d-9509-a3bb6526c1ac" />
+
