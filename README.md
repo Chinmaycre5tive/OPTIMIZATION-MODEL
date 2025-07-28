@@ -20,3 +20,5 @@ A MATHEMATICAL FRAMEWORK DESIGNED TO FIND THE BEST SOLUTION FROM A SET OF FEASIB
 
 *OUTPUT*
 
+<img width="1880" height="878" alt="Image" src="https://github.com/user-attachments/assets/971cfa92-2fda-4f81-8a0c-e0c1fc920bdd" />
+
